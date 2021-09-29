@@ -16,7 +16,7 @@ Currently it can handle the following jobs
 ## before get start
 
 ```
-
+pip install --update SpectroCalib
 ```
 
 ## set up the model 
