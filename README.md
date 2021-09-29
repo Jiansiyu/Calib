@@ -1,6 +1,6 @@
 # Calib
 
-An Spectrometer Calibration Package for HRS
+An sklearned based Spectrometer Calibration Package for HRS
 
 
 ## Spectrometer Calibration Pipeline
