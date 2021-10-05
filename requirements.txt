@@ -3,7 +3,6 @@ attrs==21.2.0
 auto-sklearn==0.14.0
 backcall==0.2.0
 bleach==4.1.0
--e git+ssh://git@github.com/Jiansiyu/Calib.git@84adbef5e686e7dd8aff0d93c10c53a5e3c660fc#egg=Calib
 cffi==1.14.6
 click==8.0.1
 cloudpickle==2.0.0
